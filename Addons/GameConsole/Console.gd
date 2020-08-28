@@ -29,7 +29,7 @@ var errors: = {
 func _ready()->void:
 	OS.center_window()
 	CommandLine.grab_focus()
-	twean.interpolate_property(panel, "rect_position:y", panel.rect_position.y, 0.0, 2.0, Tween.TRANS_QUINT, Tween.EASE_OUT)
+	twean.interpolate_property(panel, "rect_position:y", panel.rect_position.y, 0.0, 1.5, Tween.TRANS_QUINT, Tween.EASE_OUT)
 	twean.start()
 	
 

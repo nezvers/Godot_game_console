@@ -16,7 +16,7 @@ _global_script_class_icons={
 [application]
 
 config/name="Godot game console"
-run/main_scene="res://Console/Console.tscn"
+run/main_scene="res://Addons/GameConsole/Console.tscn"
 config/icon="res://icon.png"
 
 [display]
