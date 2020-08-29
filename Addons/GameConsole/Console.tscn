@@ -1,6 +1,6 @@
 [gd_scene load_steps=5 format=2]
 
-[ext_resource path="res://Assets/Fonts/Dos_font.tres" type="DynamicFont" id=1]
+[ext_resource path="res://Addons/GameConsole/Fonts/Dos_font.tres" type="DynamicFont" id=1]
 [ext_resource path="res://Addons/GameConsole/Console.gd" type="Script" id=2]
 [ext_resource path="res://Addons/GameConsole/CommandLine_style.tres" type="StyleBox" id=3]
 
